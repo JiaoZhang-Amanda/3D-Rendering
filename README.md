@@ -1,4 +1,4 @@
 # 3D-Rendering
-Homework
+The basic knowledge of rendering techniques.
 
 To produce a 3D graphics library
